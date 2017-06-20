@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Apistear</string>
+    <string name="juegos">Juegos</string>
+    <string name="opciones">Opciones</string>
+    <string name="acerca_de">Acerca de...</string>
+
+
 </resources>

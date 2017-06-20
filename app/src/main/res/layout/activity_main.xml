@@ -4,6 +4,34 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.dg.apistear.MainActivity">
+    tools:context="com.dg.apistear.MainActivity"
+    android:background="@color/endeavour"
+    >
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="201dp"
+        android:layout_height="55dp"
+        android:text="@string/juegos"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="51dp"
+        android:background="@drawable/borderButton"
+        android:textColor="@color/white"
+        />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="199dp"
+        android:layout_height="51dp"
+        android:text="@string/opciones"
+        tools:layout_editor_absoluteY="140dp"
+        tools:layout_editor_absoluteX="16dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="204dp"
+        android:layout_height="45dp"
+        android:text="@string/acerca_de"
+        tools:layout_editor_absoluteY="233dp"
+        tools:layout_editor_absoluteX="16dp" />
 </android.support.constraint.ConstraintLayout>
