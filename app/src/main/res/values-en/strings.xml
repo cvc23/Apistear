@@ -2,5 +2,11 @@
     <string name="app_name">Apistear</string>
     <string name="juegos">Games</string>
     <string name="acerca_de">About</string>
+    <string name="agregar">Add</string>
+    <string name="continuar">Continue</string>
+    <string name="NombresRepetidos">Please, don\'t repeat names</string>
+    <string name="NoNombres">You need to type at least two names</string>
+    <string name="UnNombre">Type more than one name, don\'t be a Forever Alone</string>
+    <string name="jugador">Player</string>
 
 </resources>

@@ -1,8 +1,14 @@
 <resources>
     <string name="app_name">Apistear</string>
     <string name="juegos">Juegos</string>
+    <string name="acerca_de">Acerca de</string>
     <string name="opciones">Opciones</string>
-    <string name="acerca_de">Acerca de...</string>
+    <string name="agregar">Agregar</string>
+    <string name="continuar">continuar</string>
+    <string name="NombresRepetidos">Favor de no repetir nombres</string>
+    <string name="NoNombres">No se han ingresado nombres</string>
+    <string name="UnNombre">Ingrese más de un nombre, no sea Forever Alone</string>
+    <string name="jugador">Jugador</string>
 
 
 </resources>

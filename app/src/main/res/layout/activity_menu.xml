@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dg.apistear.Menu">
+
+
+    <Button
+        android:id="@+id/button_game"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/juegos"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="61dp"
+        android:layout_marginTop="57dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/button_opt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/opciones"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="176dp"
+        android:layout_below="@+id/button_game"
+        android:layout_alignLeft="@+id/button_game"
+        android:layout_alignStart="@+id/button_game"
+        android:layout_marginTop="44dp" />
+
+    <Button
+        android:id="@+id/button_about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/acerca_de"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="324dp"
+        android:layout_below="@+id/button_opt"
+        android:layout_alignLeft="@+id/button_opt"
+        android:layout_alignStart="@+id/button_opt"
+        android:layout_marginTop="45dp" />
+</RelativeLayout>
