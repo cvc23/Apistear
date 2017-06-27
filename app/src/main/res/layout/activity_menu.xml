@@ -4,14 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.dg.apistear.Menu">
+    tools:context="com.dg.apistear.Menu"
+    android:background="@color/endeavour"
+    >
 
 
     <Button
         android:id="@+id/button_game"
-        android:layout_width="wrap_content"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:text="@string/juegos"
+        android:background="@drawable/menu_button"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="61dp"
         android:layout_marginTop="57dp"
@@ -21,8 +24,9 @@
 
     <Button
         android:id="@+id/button_opt"
-        android:layout_width="wrap_content"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
+        android:background="@drawable/menu_button"
         android:text="@string/opciones"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="176dp"
@@ -33,7 +37,8 @@
 
     <Button
         android:id="@+id/button_about"
-        android:layout_width="wrap_content"
+        android:background="@drawable/menu_button"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:text="@string/acerca_de"
         tools:layout_editor_absoluteX="0dp"

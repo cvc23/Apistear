@@ -20,9 +20,17 @@
         </activity>
         <activity
             android:name=".Players"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".GamesSlider" />
-        <activity android:name=".Menu"></activity>
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <activity
+            android:name=".GamesSlider"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity
+            android:name=".Menu"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
     </application>
 
 </manifest>

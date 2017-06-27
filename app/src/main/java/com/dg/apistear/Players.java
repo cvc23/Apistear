@@ -124,13 +124,15 @@ public class Players extends AppCompatActivity implements InputFilter {
         ed.setSingleLine();
         ed.setFilters(new InputFilter[] {new InputFilter.LengthFilter(15)});
 
-        LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(
-                LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.MATCH_PARENT);
-        params.weight = 1.0f;
-        ed.setLayoutParams(params);
+        LinearLayout.LayoutParams param = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT,
+                LinearLayout.LayoutParams.MATCH_PARENT,
+                1.0f
+        );
+        ed.setLayoutParams(param);
         TextView tx= new TextView(this);
         tx.setText(getString(R.string.jugador)+": ");
-        tx.setLayoutParams(params);
+        tx.setLayoutParams(param);
         editTexts.add(ed);
         linear.addView(tx);
         linear.addView(ed);
