@@ -10,6 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
@@ -42,6 +43,7 @@ public class FragmentGames extends Fragment {
         Button btn = (Button) view.findViewById(R.id.buttonHTP);
         tx.setText(name);
         imageButton.setImageResource(image);
+        imageButton.setScaleType(ImageView.ScaleType.FIT_XY);
 
 
 

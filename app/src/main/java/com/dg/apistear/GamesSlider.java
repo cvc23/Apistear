@@ -20,7 +20,7 @@ public class GamesSlider extends AppCompatActivity {
 
         vp= (ViewPager) findViewById(R.id.viewPager);
         ArrayList<Fragment> fragments= new ArrayList<>();
-        FragmentGames fm = new FragmentGames(R.mipmap.ic_launcher , "kings Cup", players, "1");
+        FragmentGames fm = new FragmentGames(R.mipmap.redcup , "kings Cup", players, "1");
         fragments.add(fm);
         FragmentGames fm2 = new FragmentGames(R.mipmap.ic_launcher , "Retos", players, "2");
         fragments.add(fm2);
