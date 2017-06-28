@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apistear</string>
+    <string name="juegos">Juegos</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="opciones">Opciones</string>
+    <string name="agregar">Agregar</string>
+    <string name="continuar">continuar</string>
+    <string name="NombresRepetidos">Favor de no repetir nombres</string>
+    <string name="NoNombres">No se han ingresado nombres</string>
+    <string name="UnNombre">Ingrese más de un nombre, no sea Forever Alone</string>
+    <string name="jugador">Jugador</string>
+    <!-- **********************COPA DEL REY*****************  -->
+
+    <string name="copa_del_rey">Copa Del Rey</string>
+    <string name="copareyAs">CASCADA</string>
+    <string name="coparey2">PARA TI</string>
+    <string name="coparey3">PARA MI</string>
+    <string name="coparey4">AL SUELO!</string>
+    <string name="coparey5">HOMBRES TOMAN</string>
+    <string name="coparey6">CHICAS TOMAN</string>
+    <string name="coparey7">AL CIELO</string>
+    <string name="coparey8">EL COMPAÑERO</string>
+    <string name="coparey9">RIMA</string>
+    <string name="coparey10">CATEGORIA</string>
+    <string name="copareyj">INVENTA UNA REGLA</string>
+    <string name="copareyq">MAESTRO DEL\n\n INTERROGATORIO</string>
+    <string name="copareyk">COPA DEL REY!!!</string>
+    <string name="copareyReglas">La Copa del Rey tiene una serie de reglas muy específicas que todos los
+        jugadores necesitan conocer antes de empezar a jugar. En cada turno, un jugador sacará una carta
+        de la baraja, la cual representará una acción para alguien en la mesa. Siéntete libre de adaptar
+        o editar las reglas del juego, pues existen variaciones y reglas infinitas, aunque las más comunes
+        son las siguientes:\n
+
+        2:\n para ti. Si un jugador saca un 2 (de cualquier color o palo), podría escoger a un jugador para que beba. La persona elegida deberá beber durante el tiempo establecido al principio del juego.
+\n3:\n para mí. Si un jugador saca un 3, deberá beber su bebida.
+\n4:\n para el suelo. Si un jugador saca un 4, todos en la mesa deberán agacharse y tocar el suelo lo antes posible. El último en hacerlo deberá beber.
+\n5:\n para los chicos. Si un jugador saca un 5, todos en la mesa deberán beber.
+\n6:\n para las chicas. Si un jugador saca un 6, todas las chicas en la mesa deberán beber.
+\n7:\n el cielo. Si un jugador saca un 7, todos en la mesa deberán levantar las manos lo más rápido posible. El último en hacerlo tendrá que beber.
+\n8:\n el compañero. Si un jugador saca un 8, deberá escoger a otra persona de la mesa para que beba cada vez que él lo hace y viceversa. Esto continuará hasta que alguien saque un 8. Si alguno de los jugadores se olvida de beber cuando lo haga su “compañero”, deberá tomar una bebida adicional como penalización.
+\n9:\n la rima. Si un jugador saca un 9, deberá elegir una palabra y decirla en voz alta, como por ejemplo “rata”. En sentido horario, cada jugador tendrá que decir una palabra que rime con la original (p.ej. capa, pata, gata, etc.) en menos de 5 segundos. Esto continuará hasta que a un jugador no se le ocurra una palabra que rime con la primera, por lo que deberá beber.
+\n10:\n Categoría. El jugador elige una categoría, y los demas jugadores deberán responder con algo que encaje con la categoría, terminará cuando alguien no responda adecuadamente y deberá beber.
+\nLa jota:\n“inventar una regla”. Si un jugador saca una jota, podrá inventar una regla que deberá seguirse durante todo el juego. Podría indicar que nadie debe decir alguna grosería, que está prohibido ir al baño o que nadie puede llamar a alguien por su primer nombre. Cualquier jugador que rompa la regla deberá beber a modo de penalización. Sigue leyendo este artículo para conocer algunas ideas populares para las reglas.
+\nLa reina:\n el maestro del interrogatorio. Si un jugador saca una reina, se convertirá en el maestro del interrogatorio. Hasta que alguien más saque una reina, todos solo podrán responder a las preguntas de dicho jugador con otra pregunta. Por ejemplo, si Antonio es el maestro del interrogatorio y le pregunta a Juan “¿Qué hora es?”, este solo debería responder “¿Son las dos en punto?”. Si no lo hace de esta manera, deberá tomar una bebida.
+\nEl rey: \nla Copa del Rey. Si un jugador saca un rey, debe echar su bebida en el vaso ubicado en el centro de la mesa. Cuando un jugador saque el cuarto rey, deberá beber la mezcla del vaso, lo que indicará el final del juego. Si juegas con latas en lugar de vasos, los reyes podrían indicar que tendrás que terminarte tu bebida actual u otra regla.
+\nLos ases: las cascadas. Si un jugador saca un as, todos los de la mesa deberán tomar su bebida, comienza por el que sacó la carta. Cada jugador solo puede empezar a beber después de que la persona a su derecha haya empezado a hacerlo y solo podría detenerse cuando ella lo haya hecho. Por lo tanto, si te encuentras a la izquierda del jugador que sacó la carta, no puedes dejar de beber hasta que todos en la mesa lo hayan hecho.
+    </string>
+
+</resources>

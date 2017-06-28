@@ -9,4 +9,57 @@
     <string name="UnNombre">Type more than one name, don\'t be a Forever Alone</string>
     <string name="jugador">Player</string>
 
+    <!-- Copa del rey -->
+    <string name="copa_del_rey">King\'s Cup</string>
+    <string name="copareyAs">WATERFALL</string>
+    <string name="coparey2">2 FOR U.</string>
+    <string name="coparey3">3 FOR ME</string>
+    <string name="coparey4">4 ON THE FLOOR</string>
+    <string name="coparey5">5 FOR GUYS</string>
+    <string name="coparey6">6 FOR CHICKS</string>
+    <string name="coparey7">7 HEAVEN</string>
+    <string name="coparey8">8 WITH MATE</string>
+    <string name="coparey9">9 RHYME</string>
+    <string name="coparey10">CATEGORIES</string>
+    <string name="copareyj">MAKE A RULE</string>
+    <string name="copareyq">QUESTION MASTER</string>
+    <string name="copareyk">KING\'S CUP!!!</string>
+    <string name="copareyReglas">
+         King\'s cup is a drinking game that uses playing cards is this ccase, Apistear App ;) . The player must drink and dispense drinks based on cards drawn.
+        Each card has a rule that is predetermined before the game starts. Many houses have their own variation of rules.\n
+
+        Ace: \nAce is waterfall. This starts with everyone chugging.
+        Then the person who picked the card can stop whenever he/she wants.
+        This allows the next person to stop when he/she wants and so on and so on.
+        This version is classic because it does a great job of getting everyone plastered.
+        \nTwo:\n Two has and always will be the classic you.
+        This means that whoever picks the 2 card gets to choose anybody they want in the game to drink.
+        \nThree:\nThree for me. Pick a 3 and you have to drink.
+        \nFour:\nFour on the floor, everybody has to point to the ground the last person to do it has to drink.
+        \nFive:\n Five for guys. Guys have to drink.
+
+        \nSix:\n Six for Chicks, girls have to drink.
+        \nSeven:\nSeven heaven. All players reach for the sky.
+             The last person has to drink. Great card when people aren\'t paying attention or someone is too
+            drunk to realize a seven was picked.
+        \nEight:\nEight is mate. The player who picks the card chooses another player to be their mate.
+            This means when one of them drinks they both drink. Perfect for letting the fine girl across
+            the table know you are interested.
+        \nNine:\nNine is called bust a rhyme. The simple version has the player who picked the card say a
+            word and everybody has to say a word that rhymes with it. Say for example the word is bite.
+            Other players would say fight, kite, tight, right, etc. This goes on until somebody cannot
+            think of a word that rhymes.
+
+        \nTen:\nTen is categories. The player who picked the card chooses a category.
+            Then everyone goes around and says something that fits in the category.
+            Whoever cannot think of anything in the category has to drink.
+
+            \nJack:\nMake a Rule. Player makes a rule that lasts the entire game and if broken the violator must drink
+        \nQueen:\nQuestion Master.Player who flips over a queen becomes the question master until the next queen is flipped over.
+            This player can ask anybody at any time a question and if that player doesn\'t respond with
+            a question to the asker or another player he must drink
+
+        \nKing:\nKing\'s Cup.Pour however much beer/liquor you want into the glass, the 4th king has to drink the cup.
+    </string>
+
 </resources>
