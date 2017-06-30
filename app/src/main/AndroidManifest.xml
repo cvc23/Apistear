@@ -27,8 +27,13 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Menu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".HowToPlay"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".KingsCupGame"
             android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".HowToPlay"></activity>
     </application>
 
 </manifest>

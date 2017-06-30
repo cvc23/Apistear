@@ -54,10 +54,10 @@ public class FragmentGames extends Fragment {
                 switch(id){
                     case "1" :
                         //King's Cup
-                        intent=new Intent(getActivity(), Menu.class);
+                        intent=new Intent(getActivity(), KingsCupGame.class);
                         break;
                     case "2":
-                        //Fuck the dealer
+                        //Challenges
                         intent=new Intent(getActivity(), Menu.class);
                         break;
                     default:
