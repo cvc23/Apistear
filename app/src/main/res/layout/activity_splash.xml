@@ -6,6 +6,12 @@
     android:layout_height="match_parent"
     tools:context="com.dg.apistear.Splash">
 
+    <com.felipecsl.gifimageview.library.GifImageView
+        android:id="@+id/gifImageView"
+        android:scaleType="fitCenter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
