@@ -6,35 +6,12 @@
     android:layout_height="match_parent"
     tools:context="com.dg.apistear.Splash">
 
-    <com.felipecsl.gifimageview.library.GifImageView
-        android:id="@+id/gifImageView"
-        android:scaleType="fitCenter"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
-
-    <TextView
+    <ImageView
+        android:id="@+id/imageViewSplash"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Apistear"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        android:id="@+id/textView"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="156dp" />
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="201dp"
-        android:layout_height="193dp"
-        app:srcCompat="@mipmap/ic_launcher"
-        tools:layout_editor_absoluteX="92dp"
-        tools:layout_editor_absoluteY="36dp"
-        android:foregroundGravity="center"
-        android:layout_above="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="23dp" />
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        app:srcCompat="@drawable/sg_1" />
 
 </RelativeLayout>
